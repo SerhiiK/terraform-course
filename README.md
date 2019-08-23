@@ -11,7 +11,7 @@ It\`s files from terraform course by Udemy.
 | Lesson 3| Provisioning through SSH |
 | Lesson 4| Outputting attrubutes |
 | Lesson 5| Remote state |
-| Lesson 6| VPC |
+| Lesson 6| VPC,Subnets,IGW,Route Tables etc. |
 | Lesson 7|  |
 | Lesson 8|  |
 | Lesson 9|  |
