@@ -12,6 +12,6 @@ It\`s files from terraform course by Udemy.
 | Lesson 4| Outputting attrubutes |
 | Lesson 5| Remote state |
 | Lesson 6| VPC,Subnets,IGW,Route Tables etc. |
-| Lesson 7|  |
-| Lesson 8|  |
-| Lesson 9|  |
+| Lesson 7| Launching instance in new VPC  |
+| Lesson 8| Added new volume in EBS |
+| Lesson 9| Increase size of root volume EBS | 
