@@ -15,3 +15,6 @@ It\`s files from terraform course by Udemy.
 | Lesson 7| Launching instance in new VPC  |
 | Lesson 8| Added new volume in EBS |
 | Lesson 9| Increase size of root volume EBS | 
+| Lesson 10| RDS | 
+| Lesson 11| IAM Create group & users | 
+| Lesson 12|  Autoscale | 
