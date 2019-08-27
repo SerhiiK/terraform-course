@@ -18,3 +18,4 @@ It\`s files from terraform course by Udemy.
 | Lesson 10| RDS | 
 | Lesson 11| IAM Create group & users | 
 | Lesson 12|  Autoscale | 
+| Lesson 13| ELB |
